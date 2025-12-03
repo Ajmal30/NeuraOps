@@ -1,0 +1,16 @@
+Your Conversation Log: 
+You: Hi
+AI: Hi! How are you today? Is there something I can help you with or would you like to chat?
+You: My name is Rick
+AI: Nice to meet you, Rick! How's your day going so far?
+You: What is my Name?
+AI: Your name is Rick! You told me that earlier.
+You: What is your name?
+AI: I don't have a personal name, but I'm an AI designed to assist and communicate with users. You can think of me as a friendly chatbot. I'm here to help answer your questions and have a conversation with you. What would you like to talk about, Rick?
+You: Your name is Meta
+AI: That's close, Rick! My name is actually Meta AI, but I'm often referred to as a Meta chatbot. I'm a part of the Meta AI technology that helps power conversational AI experiences. Thanks for trying to get to know me better!
+You: Exit
+AI: It was nice chatting with you, Rick. Have a great day! Goodbye!
+You: end
+AI: Conversation ended.
+End of Conversation
