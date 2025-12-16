@@ -1,4 +1,4 @@
-## :dart: AI Agent
+## :dart: NeuraOps
 
 A lightweight, modular AI Agent built using LangGraph for workflow orchestration and Groq-powered LLaMA models for ultra-fast inference.
 Supports multi-step reasoning, tool execution, memory, and structured outputs packaged as a Python backend service.
